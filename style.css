@@ -1,0 +1,15 @@
+.box1{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(225, 194, 194);
+
+}
+.box2{
+    height: 350vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
